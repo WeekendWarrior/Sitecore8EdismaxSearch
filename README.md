@@ -1,4 +1,4 @@
-# Sitecore8eDisMaxSearch
+# Sitecore8 eDisMax Search
 
 This project is a simple .Net Framework WebAPI2 proxy website that can be setup to add Solr eDisMax query support in Sitecore 8 (or below).
 
