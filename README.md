@@ -1,6 +1,6 @@
-# Sitecore8EeDisMaxSearch
+# Sitecore8eDisMaxSearch
 
-This project contains a simple .Net Framework WebAPI2 website that can be setup to add Solr eDisMax query support in Sitecore 8 (or below).
+This project is a simple .Net Framework WebAPI2 proxy website that can be setup to add Solr eDisMax query support in Sitecore 8 (or below).
 
 > Note that Sitecore 9 contains native Edismax Search support via the Query<T>() method. So if you are on Sitecore 9, this project is useless to you - instead, just read my blog series. But if you are on Sitecore 8 and cannot upgrade to version 9 for one reason or another, then you are in the right place.
 
